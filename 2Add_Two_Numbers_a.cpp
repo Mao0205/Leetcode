@@ -1,5 +1,10 @@
-ㄋsddddddd
+/*
+基本上將兩個lined list相加到其中一個結束，並將剩下的直接接在尾部。除了加法需要額外處理進位問題。
+時間上比2版(較簡潔)得快。
 
+複習new的用法，會動態生成空間並回傳指標。
+ListNode* temp = new ListNode(val);
+*/
 
 /**
  * Definition for singly-linked list.
